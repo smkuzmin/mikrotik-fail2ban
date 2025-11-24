@@ -21,7 +21,7 @@
 /system scheduler add name=fail2ban interval=1m on-event=fail2ban
 ```
 
-### Fail2ban script Source code
+### Fail2ban script source code
 
 ```powershell
 {

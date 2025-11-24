@@ -2,7 +2,7 @@
 
 Скрипт запускается каждую минуту и добавляет в BLACKLIST на 1 час те IP, с которых больше 10 неудачных логинов (WinBox/SSH/Web) за последний час.
 
-```routeros
+```powershell
 # MIKROTIK TEMPLATE
 # The script runs every minute and adds to the BLACKLIST for 1 hour those IPs from which there have been more than 10 unsuccessful logins (WinBox/SSH/Web) in the last hour
 
